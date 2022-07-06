@@ -9,7 +9,7 @@ permalink: /community/active-proposals
 
 |Proposal|Author|Comments|Created date|Status| 
 |---|----|----|----|---| 
-|[Support for `group by` clause](https://github.com/ballerina-platform/ballerina-lang/issues/36810){:target="_blank" rel="noopener"}|[KavinduZoysa](https://github.com/KavinduZoysa){:target="_blank" rel="noopener"}|8|2022-07-01|N/A|
+|[Support for `group by` clause](https://github.com/ballerina-platform/ballerina-lang/issues/36810){:target="_blank" rel="noopener"}|[KavinduZoysa](https://github.com/KavinduZoysa){:target="_blank" rel="noopener"}|9|2022-07-01|N/A|
 |[Utility to enforce semvar to Ballerina APIs](https://github.com/ballerina-platform/ballerina-lang/issues/32368){:target="_blank" rel="noopener"}|[hevayo](https://github.com/hevayo){:target="_blank" rel="noopener"}|0|2021-08-26|N/A|
 |[Implement new service typing proposal](https://github.com/ballerina-platform/ballerina-lang/issues/26064){:target="_blank" rel="noopener"}|[rdhananjaya](https://github.com/rdhananjaya){:target="_blank" rel="noopener"}|0|2020-09-24|N/A|
 |[Suggestion: Ability to attach @resources to a service](https://github.com/ballerina-platform/ballerina-lang/issues/19523){:target="_blank" rel="noopener"}|[ramith](https://github.com/ramith){:target="_blank" rel="noopener"}|0|2019-10-22|N/A|
