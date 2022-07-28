@@ -6,7 +6,7 @@ intro: The active proposal list for the Ballerina GitHub repositories.
 keywords: ballerina, community, ballerina community 
 permalink: /community/active-proposals 
 --- 
-## [ballerina-lang](https://github.com/ballerina-platform/ballerina-lang)
+## [ballerina-lang](https://github.com/ballerina-platform/ballerina-lang){:target=\"_blank\" rel=\"noopener\"}
 
 |Proposal|Author|Comments|Created date|Status| 
 |---|----|----|----|---| 
@@ -16,7 +16,7 @@ permalink: /community/active-proposals
 |[Suggestion: Ability to attach @resources to a service](https://github.com/ballerina-platform/ballerina-lang/issues/19523){:target=\"_blank\" rel=\"noopener\"}|[ramith](https://github.com/ramith){:target=\"_blank\" rel=\"noopener\"}|0|2019-10-22|N/A|
 |[[Proposal] Add support for MacPorts package manager](https://github.com/ballerina-platform/ballerina-lang/issues/9675){:target=\"_blank\" rel=\"noopener\"}|[conradwt](https://github.com/conradwt){:target=\"_blank\" rel=\"noopener\"}|9|2018-07-18|N/A|
 
-## [ballerina-standard-library](https://github.com/ballerina-platform/ballerina-standard-library)
+## [ballerina-standard-library](https://github.com/ballerina-platform/ballerina-standard-library){:target=\"_blank\" rel=\"noopener\"}
 
 |Proposal|Author|Comments|Created date|Status| 
 |---|----|----|----|---| 
@@ -30,7 +30,7 @@ permalink: /community/active-proposals
 |[Proposal: `continue` action for HTTP Client API](https://github.com/ballerina-platform/ballerina-standard-library/issues/2038){:target=\"_blank\" rel=\"noopener\"}|[ayeshLK](https://github.com/ayeshLK){:target=\"_blank\" rel=\"noopener\"}|4|2021-10-12|Active|
 |[Proposal: xDS API Support for gRPC](https://github.com/ballerina-platform/ballerina-standard-library/issues/2011){:target=\"_blank\" rel=\"noopener\"}|[BuddhiWathsala](https://github.com/BuddhiWathsala){:target=\"_blank\" rel=\"noopener\"}|2|2021-10-06|Active|
 
-## [module-ballerina-c2c](https://github.com/ballerina-platform/module-ballerina-c2c)
+## [module-ballerina-c2c](https://github.com/ballerina-platform/module-ballerina-c2c){:target=\"_blank\" rel=\"noopener\"}
 
 |Proposal|Author|Comments|Created date|Status| 
 |---|----|----|----|---| 
