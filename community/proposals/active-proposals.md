@@ -20,7 +20,7 @@ permalink: /community/active-proposals
 
 |Proposal|Author|Comments|Created date|Status| 
 |---|----|----|----|---| 
-|[Proposal: Generate database configurations using `bal persist init` command](https://github.com/ballerina-platform/ballerina-standard-library/issues/3163){:target=\"_blank\" rel=\"noopener\"}|[MadhukaHarith92](https://github.com/MadhukaHarith92){:target=\"_blank\" rel=\"noopener\"}|0|2022-07-26|Active|
+|[Proposal: Generate database configurations using `bal persist init` command](https://github.com/ballerina-platform/ballerina-standard-library/issues/3163){:target=\"_blank\" rel=\"noopener\"}|[MadhukaHarith92](https://github.com/MadhukaHarith92){:target=\"_blank\" rel=\"noopener\"}|1|2022-07-26|Accepted|
 |[Proposal: Introduce a new API to wait until a given scheduled job is completed ](https://github.com/ballerina-platform/ballerina-standard-library/issues/3018){:target=\"_blank\" rel=\"noopener\"}|[kalaiyarasiganeshalingam](https://github.com/kalaiyarasiganeshalingam){:target=\"_blank\" rel=\"noopener\"}|0|2022-06-20|Active|
 |[Proposal: Ballerina SerDes module](https://github.com/ballerina-platform/ballerina-standard-library/issues/2964){:target=\"_blank\" rel=\"noopener\"}|[MohamedSabthar](https://github.com/MohamedSabthar){:target=\"_blank\" rel=\"noopener\"}|2|2022-06-01|Active|
 |[Proposal: gRPC Packaging Support](https://github.com/ballerina-platform/ballerina-standard-library/issues/2948){:target=\"_blank\" rel=\"noopener\"}|[dilanSachi](https://github.com/dilanSachi){:target=\"_blank\" rel=\"noopener\"}|6|2022-05-25|Implemented|
