@@ -5,7 +5,7 @@ import ballerina/lang.runtime;
 import ballerina/os;
 import ballerina/regex;
 
-configurable string githubAccessToken = os:getEnv("BALLERINA_BOT_TOKEN");
+configurable string githubAccessToken = os:getEnv("GITHUB_TOKEN");
 
 // type RepoData record {
 //     int total_count;
@@ -40,6 +40,7 @@ type User record {
 };
 
 public function main() returns error? {
+    io:println(githubAccessToken);
 
     github:Client githubClient = check new ({
         auth: {
