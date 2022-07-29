@@ -5,7 +5,7 @@ import ballerina/lang.runtime;
 import ballerina/os;
 import ballerina/regex;
 
-configurable string githubAccessToken = os:getEnv("BALLERINA_BOT_TOKEN");;
+configurable string githubAccessToken = os:getEnv("BALLERINA_BOT_TOKEN");
 
 // type RepoData record {
 //     int total_count;
