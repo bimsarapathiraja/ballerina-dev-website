@@ -26,6 +26,7 @@ permalink: /community/active-proposals
 
 |Proposal|Author|Comments|Created date|Status| 
 |---|----|----|----|---| 
+|[Proposal:SerDes - Proto3 file generation](https://github.com/ballerina-platform/ballerina-standard-library/issues/3217)|[MohamedSabthar](https://github.com/MohamedSabthar)|0|2022-08-04|N/A|
 |[Proposal: Introduce a new API to wait until a given scheduled job is completed ](https://github.com/ballerina-platform/ballerina-standard-library/issues/3018)|[kalaiyarasiganeshalingam](https://github.com/kalaiyarasiganeshalingam)|0|2022-06-20|Active|
 |[Proposal: Ballerina SerDes module](https://github.com/ballerina-platform/ballerina-standard-library/issues/2964)|[MohamedSabthar](https://github.com/MohamedSabthar)|2|2022-06-01|Active|
 |[Proposal: gRPC Packaging Support](https://github.com/ballerina-platform/ballerina-standard-library/issues/2948)|[dilanSachi](https://github.com/dilanSachi)|6|2022-05-25|Implemented|
